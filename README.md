@@ -17,10 +17,10 @@ Contact:
 > Data Streams: Algorithms and Applications. Foundations and Trends in Theoretical Computer Science 1(2) (2005)
 > [download](https://infolab.usc.edu/csci599/Fall2003/Data%20Streams/Data%20streams%20algorithms%20and%20applications.pdf)
 
-### Week 2: Bloom fitler & Count sketch
+### Week 2: Bloom fitler & Count sketch (Mar. 11)
 
 * Bloom filter [[youtube]](https://www.youtube.com/watch?v=Bay3X9PAX5k)
-* [[youtube]](https://www.youtube.com/watch?v=ibxXO-b14j4&t=67s)
+* Count sketch [[youtube]](https://www.youtube.com/watch?v=ibxXO-b14j4&t=67s)
 
 ## Phase 2: Student presentations
 
