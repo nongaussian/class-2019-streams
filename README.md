@@ -7,7 +7,7 @@ Contact:
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr), Keonwoo Kim (kdbml314@gmail.com)
 
 ## IMPORTANT NOTICE
-* All important notices will be posted here.
+* Quiz on Mar. 18 is an open book test (you can refer printed paper, laptop, smart phone)
 
 ## Phase 1: Reading matterial & Quiz
 
