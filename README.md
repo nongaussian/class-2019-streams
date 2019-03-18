@@ -27,6 +27,7 @@ Contact:
 Next week's quiz:
 
 > M. Charikar, K. Chen and M. Farach-Colton. Finding frequent items in data streams. Proc. ICALP, 2002, 693–703.
+> [download](https://www.cs.rutgers.edu/~farach/pubs/FrequentStream.pdf)
 
 ## Phase 2: Student presentations
 
