@@ -22,6 +22,12 @@ Contact:
 * Bloom filter [[youtube]](https://www.youtube.com/watch?v=Bay3X9PAX5k)
 * Count sketch [[youtube]](https://www.youtube.com/watch?v=ibxXO-b14j4&t=67s)
 
+### Week 3: Quiz on the survey paper "Introduction to the algorithms for data streams"
+
+Next week's quiz:
+
+> M. Charikar, K. Chen and M. Farach-Colton. Finding frequent items in data streams. Proc. ICALP, 2002, 693–703.
+
 ## Phase 2: Student presentations
 
 ## Final exam
