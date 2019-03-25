@@ -7,7 +7,7 @@ Contact:
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr), Keonwoo Kim (kdbml314@gmail.com)
 
 ## IMPORTANT NOTICE
-* Quiz on Mar. 18 is an open book test (you can refer printed paper, laptop, smart phone)
+* Every quiz is an open book test (you can refer printed paper, laptop, smart phone)
 
 ## Phase 1: Reading matterial & Quiz
 
@@ -28,6 +28,12 @@ Next week's quiz:
 
 > M. Charikar, K. Chen and M. Farach-Colton. Finding frequent items in data streams. Proc. ICALP, 2002, 693–703.
 > [download](https://www.cs.rutgers.edu/~farach/pubs/FrequentStream.pdf)
+
+### Week 4
+
+Next week's quiz:
+
+> Andrew McGregor's slides: F<sub>2</sub> and F<sub>0</sub> Sampling [download](https://people.cs.umass.edu/~mcgregor/711S12/lec-1-2.pdf)
 
 ## Phase 2: Student presentations
 
