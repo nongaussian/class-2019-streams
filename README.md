@@ -33,7 +33,7 @@ Next week's quiz:
 
 Next week's quiz:
 
-> Andrew McGregor's slides: F<sub>2</sub> and F<sub>0</sub> Sampling [download](https://people.cs.umass.edu/~mcgregor/711S12/lec-1-2.pdf)
+> Andrew McGregor's slides: Sketching F<sub>2</sub> and F<sub>0</sub> [download](https://people.cs.umass.edu/~mcgregor/711S12/lec-1-2.pdf)
 
 ## Phase 2: Student presentations
 
