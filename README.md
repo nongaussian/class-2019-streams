@@ -35,6 +35,18 @@ Next week's quiz:
 
 > Andrew McGregor's slides: Sketching F<sub>2</sub> and F<sub>0</sub> [download](https://people.cs.umass.edu/~mcgregor/711S12/lec-1-2.pdf)
 
+### Week 5
+
+Next week's quiz is about minhashing technique to approximate the Jaccard coefficient between two sets.
+
+Here are some recommended references:
+
+* Supplemental Min-wise Hashing Slide [[link]](https://web.stanford.edu/class/archive/cs/cs276a/cs276a.1032/handouts/minhash-6in1.pdf)
+* Approximating Jaccard similarity with MinHash [[link]](https://aksakalli.github.io/2016/03/01/jaccard-similarity-with-minhash.html)
+* Introduction to the Minhash algorithm [[link]](http://www.tonicebrian.com/posts/2013/03/11/introduction-to-the-minhash-algorithm.html)
+* MinHashing [[link]](https://moultano.wordpress.com/2018/11/08/minhashing-3kbzhsxyg4467-6/)
+
+
 ## Phase 2: Student presentations
 
 ## Final exam
