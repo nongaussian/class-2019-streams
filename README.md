@@ -8,6 +8,7 @@ Contact:
 
 ## IMPORTANT NOTICE
 * Every quiz is an open book test (you can refer printed paper, laptop, smart phone)
+* Leave a comment on Hanyang LMS class home including a paper you want to present among the candidate list. [[Hanyang LMS]](https://learn.hanyang.ac.kr/ultra/courses/_13996_1/outline)
 
 ## Phase 1: Reading matterial & Quiz
 
@@ -46,7 +47,8 @@ Here are some recommended references:
 * Introduction to the Minhash algorithm [[link]](http://www.tonicebrian.com/posts/2013/03/11/introduction-to-the-minhash-algorithm.html)
 * MinHashing [[link]](https://moultano.wordpress.com/2018/11/08/minhashing-3kbzhsxyg4467-6/)
 
-
 ## Phase 2: Student presentations
+
+Leave a comment on Hanyang LMS class home including a paper you want to present among the candidate list. [[Hanyang LMS]](https://learn.hanyang.ac.kr/ultra/courses/_13996_1/outline)
 
 ## Final exam
