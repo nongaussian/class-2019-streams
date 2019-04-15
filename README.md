@@ -8,7 +8,7 @@ Contact:
 
 ## IMPORTANT NOTICE
 * Every quiz is an open book test (you can refer printed paper, laptop, smart phone)
-* Leave a comment on Hanyang LMS class home including a paper you want to present among the candidate list. [[Hanyang LMS]](https://learn.hanyang.ac.kr/ultra/courses/_13996_1/outline)
+* Leave a comment on Hanyang LMS class home including a paper you want to present among the candidate list. [[Hanyang LMS]](https://learn.hanyang.ac.kr/ultra/courses/_13996_1/outline) until Apr. 16 (Wed)
 * Student presentation (Apr. 22 ~ Jun. 3): 2 presentations every week
 * A presentation should be 30 min ~ 40 min long
 
