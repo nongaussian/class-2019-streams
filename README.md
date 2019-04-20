@@ -11,6 +11,7 @@ Contact:
 * Leave a comment on Hanyang LMS class home including a paper you want to present among the candidate list. [[Hanyang LMS]](https://learn.hanyang.ac.kr/ultra/courses/_13996_1/outline) until Apr. 16 (Wed)
 * Student presentation (Apr. 22 ~ Jun. 3): 2 presentations every week
 * A presentation should be 30 min ~ 40 min long
+* Presentation schedule is set by random shuffling
 
 ## Phase 1: Reading matterial & Quiz
 
@@ -53,4 +54,30 @@ Here are some recommended references:
 
 Leave a comment on Hanyang LMS class home including a paper you want to present among the candidate list. [[Hanyang LMS]](https://learn.hanyang.ac.kr/ultra/courses/_13996_1/outline)
 
-## Final exam
+### Apr. 22
+* 사미울라: Summarizing and Mining Inverse Distributions on Data Streams via Dynamic Inverse Sampling
+* 김종우: LEARNING-BASED FREQUENCY ESTIMATION ALGORITHMS
+
+### Apr. 29
+* 윤승한: Event detection in social streams
+* MUSTAFA GHULAM: Sampling in Dynamic Data Streams and Applications
+
+### May 13
+* 권용석: A framework for clustering evolving data streams
+* 추문박: A framework for on-demand classification of evolving data streams
+
+### May 20
+* 니아즈아흐마드: Evolutionary spectral clustering by incorporating temporal smoothness
+* 박승윤: Density-based clustering for real-time stream data
+
+### May 27
+* 이브테삼무하마드: (not yet selected; please select another paper - the one has been already selected by aother student)
+* 칸무하마드우메어: Enabling fast lazy learning for data streams
+* 모흐신자바이드: Growing self-organizing map for online continuous clustering, vol 204 of Studies in computational intelligence
+
+### Jun 3
+* 이솔: Streamed learning: one-pass svms
+* 박주한: Evolving granular neural network for semi-supervised data stream classification
+* 조용채: Indexing density models for incremental learning and anytime classification on data streams
+
+## Final exam (Jun 17)
