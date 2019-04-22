@@ -71,7 +71,7 @@ Leave a comment on Hanyang LMS class home including a paper you want to present 
 * 박승윤: Density-based clustering for real-time stream data
 
 ### May 27
-* 이브테삼무하마드: (not yet selected; please select another paper - the one has been already selected by aother student)
+* 이브테삼무하마드: On clustering massive text and categorical data streams
 * 칸무하마드우메어: Enabling fast lazy learning for data streams
 * 모흐신자바이드: Growing self-organizing map for online continuous clustering, vol 204 of Studies in computational intelligence
 
