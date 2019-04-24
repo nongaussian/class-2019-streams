@@ -54,11 +54,11 @@ Here are some recommended references:
 
 Leave a comment on Hanyang LMS class home including a paper you want to present among the candidate list. [[Hanyang LMS]](https://learn.hanyang.ac.kr/ultra/courses/_13996_1/outline)
 
-### Apr. 22
+### Apr 22
 * 사미울라: Summarizing and Mining Inverse Distributions on Data Streams via Dynamic Inverse Sampling
 * 김종우: LEARNING-BASED FREQUENCY ESTIMATION ALGORITHMS
 
-### Apr. 29
+### Apr 29
 * 윤승한: Event detection in social streams
 * MUSTAFA GHULAM: Sampling in Dynamic Data Streams and Applications
 
@@ -73,7 +73,7 @@ Leave a comment on Hanyang LMS class home including a paper you want to present 
 ### May 27
 * 이브테삼무하마드: On clustering massive text and categorical data streams
 * 칸무하마드우메어: Enabling fast lazy learning for data streams
-* 모흐신자바이드: Growing self-organizing map for online continuous clustering, vol 204 of Studies in computational intelligence
+* 모흐신자바이드: Growing self-organizing map for online continuous clustering
 
 ### Jun 3
 * 이솔: Streamed learning: one-pass svms
