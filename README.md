@@ -8,7 +8,7 @@ Contact:
 
 ## IMPORTANT NOTICE
 * Send your presentation slides to nongauassian@gmail.com
-* Final exam on June 17
+* Final exam on June 10 (tentitive)
 * Student presentation (Apr. 22 ~ Jun. 3): 2~3 presentations every week
 * A presentation should be 30 min ~ 40 min long
 * Presentation schedule is set by random shuffling
@@ -80,4 +80,4 @@ Leave a comment on Hanyang LMS class home including a paper you want to present 
 * 박주한: Evolving granular neural network for semi-supervised data stream classification
 * 조용채: Indexing density models for incremental learning and anytime classification on data streams
 
-## Final exam (Jun 17)
+## Final exam (Jun 10)
