@@ -8,7 +8,7 @@ Contact:
 
 ## IMPORTANT NOTICE
 * Send your presentation slides to nongauassian@gmail.com
-* Final exam on June 10
+* Final exam on June 17
 * Student presentation (Apr. 22 ~ Jun. 3): 2~3 presentations every week
 * A presentation should be 30 min ~ 40 min long
 * Presentation schedule is set by random shuffling
