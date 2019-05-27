@@ -7,8 +7,8 @@ Contact:
 * TA: Woonghee Lee (woongheelee@hanyang.ac.kr), Keonwoo Kim (kdbml314@gmail.com)
 
 ## IMPORTANT NOTICE
-* Send your presentation slides to nongauassian@gmail.com '''(deadline June 3 11:59pm)'''
-* Final exam on June 10 (tentitive)
+* Send your presentation slides to nongauassian@gmail.com **(deadline June 3 11:59pm)**
+* **Final exam on June 10**: 3 best presentations are going to be anounced on June 3, and the questions will be chosen from those papers
 * Student presentation (Apr. 22 ~ Jun. 3): 2~3 presentations every week
 * A presentation should be 30 min ~ 40 min long
 * Presentation schedule is set by random shuffling
