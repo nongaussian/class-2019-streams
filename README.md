@@ -85,6 +85,6 @@ Leave a comment on Hanyang LMS class home including a paper you want to present 
 Questions from
 * 4 Quizs
 * Three papers
-** Paper 1. Summarizing and Mining Inverse Distributions on Data Streams via Dynamic Inverse Sampling
-** Paper 2. A framework for on-demand classification of evolving data streams
-** Paper 3. Learning-Based Frequency Estimation Algorithms
+ * Paper 1. Summarizing and Mining Inverse Distributions on Data Streams via Dynamic Inverse Sampling
+ * Paper 2. A framework for on-demand classification of evolving data streams
+ * Paper 3. Learning-Based Frequency Estimation Algorithms
