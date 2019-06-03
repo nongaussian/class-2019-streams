@@ -81,3 +81,10 @@ Leave a comment on Hanyang LMS class home including a paper you want to present 
 * 조용채: Indexing density models for incremental learning and anytime classification on data streams
 
 ## Final exam (Jun 10)
+
+Questions from
+* 4 Quizs
+* Three papers
+** Paper 1. Summarizing and Mining Inverse Distributions on Data Streams via Dynamic Inverse Sampling
+** Paper 2. A framework for on-demand classification of evolving data streams
+** Paper 3. Learning-Based Frequency Estimation Algorithms
